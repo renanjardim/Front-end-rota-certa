@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 
 // --- URL DA API ---
-const API_URL = 'https://back-end-rota-certa-chh9t4pcr-renan-jardims-projects.vercel.app'; 
+const API_URL = 'https://back-end-rota-certa.vercel.app/'; 
 
 // --- Estilos em CSS para a Web ---
 const styles = `
@@ -882,6 +882,7 @@ export default function App() {
     </div>
   );
 }
+
 
 
 
